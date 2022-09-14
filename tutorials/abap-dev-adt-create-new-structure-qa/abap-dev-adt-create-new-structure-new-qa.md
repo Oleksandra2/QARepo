@@ -1,5 +1,5 @@
 ---
-title: Create a New ABAP Dictionary Structure QA Green new
+title: Create a New ABAP Dictionary Structure QA Green new 3
 description: Create an ABAP Dictionary structure for retrieving data from a database
 auto_validation: true
 primary_tag: programming-tool>abap-development
