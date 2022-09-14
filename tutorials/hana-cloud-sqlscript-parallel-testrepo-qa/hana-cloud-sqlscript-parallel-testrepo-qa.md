@@ -1,5 +1,5 @@
 ---
-title: Parallel Processing and Parameters QA Green new
+title: Parallel Processing and Parameters QA Green new 6
 description: Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 author_name: Rich Heilman
 author_profile: https://github.com/rich-heilman
