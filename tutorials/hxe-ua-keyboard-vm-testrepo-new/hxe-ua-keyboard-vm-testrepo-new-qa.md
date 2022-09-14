@@ -1,5 +1,5 @@
 ---
-title: Set Keyboard and Time Zone QA Green new
+title: Set Keyboard and Time Zone QA Green new 7
 description: The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 author_name: John Currie
 author_profile: https://github.com/JCurrie27 
