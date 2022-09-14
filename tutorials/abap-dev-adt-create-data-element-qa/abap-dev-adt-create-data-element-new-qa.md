@@ -1,5 +1,5 @@
 ---
-title: Create a Data Element QA Green new
+title: Create a Data Element QA Green new 2
 description: Create a data element, which you will use in a later tutorial.
 auto_validation: true
 primary_tag: programming-tool>abap-development
